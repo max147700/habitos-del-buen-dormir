@@ -1,0 +1,60 @@
+<html>
+<head><title>HABITOS DEL BUEN SUEÑO</title></head>
+<body>
+<h1>HABITOS DE SUEÑO</h1>
+<font face="arial" color="black" size="2">
+<br>
+<br>
+<br>
+1. Establece un horario de sueño regular.<br>
+Es bueno que te acuestes y te levantes cada día a la misma hora<br>
+y seguir el propio ritmo de sueño que marca tu organismo.<br>
+No es recomendable que te quedes en la cama más tiempo del necesario para dormir.<br>
+<br>
+2. Presta atención a los factores ambientales.<br>
+Mantener el dormitorio oscuro, tranquilo, bien ventilado<br>
+y con una temperatura ambiental confortable a lo largo<br>
+de la noche te ayudará a dormir mejor<br>
+<br>
+3. Mantén la cama en buenas condiciones.<br>
+Es importante que duermas en un colchón que no sea ni demasiado blando<br>
+ni demasiado duro. La almohada ha de tener la densidad y la altura adecuadas.<br>
+Además, la cama debe ser utilizada para dormir y no para leer,<br>
+ver la televisión o trabajar, puesto que la permanencia prolongada en la cama<br>
+da lugar a sueño fragmentado y de mala calidad.<br>
+<br>
+4. Regula los horarios de las comidas.<br>
+Y sobre todo, no comas ni bebas grandes cantidades durante las tres horas<br>
+previas a acostarte, ya que las comidas copiosas producen digestiones pesadas<br>
+que interfieren con el sueño.<br>
+<br>
+<br>
+<img src="habitos.jpg">
+<br>
+<br>
+5. Evita las siestas largas durante el día.<br>
+Las siestas son recomendables al haber demostrado beneficios cardiovasculares y mentales<br>
+pero no deben ser muy largas para que no te cueste dormir por la noche.<br>
+Normalmente con 15-30 minutos de duración y un intervalo mínimo de 7 horas desde la finalización<br>
+de la siesta hasta el momento de irte a dormir por la noche es lo recomendable para poder conciliar mejor el sueño<br>
+<br>
+6. Realiza ejercicio físico.<br>
+A ser posible unos 40 minutos todos los días. No obstante, la actividad física<br>
+debe acabar de 4 a 6 horas antes de acostarte, por su efecto excitante<br>
+<br>
+7. Vete a la cama en cuanto tengas sueño.<br>
+No es bueno que te quedes dormido viendo la ‘tele’ en el salón,<br>
+ya que luego te resultará más difícil volver a dormir en la cama.<br>
+<br>
+8. Establece un ritual relajante para ir a dormir.<br>
+Te puede servir de ayuda realizar alguna actividad relajante media hora<br>
+antes de ir a dormir, como leer algo ligero, escuchar música suave, practicar<br>
+ejercicios de relajación o tomar un baño o una ducha, para eliminar tensiones.<br>
+ Si no logras dormir, no es bueno forzar la situación insistiendo en ello;<br>
+es mejor concentrarse en pensamientos relajantes.<br>
+<br>
+<br>
+<a href="file:///D:/Users/axel_/Desktop/tecnologia/cuidado%20del%20descanso%20y%20buen%20dormir.html">regreso</a>
+</font>
+</body>
+</html>

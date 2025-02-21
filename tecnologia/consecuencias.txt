@@ -1,0 +1,30 @@
+<html>
+<head><title>CONSECUENCIA</title></head>
+<body>
+<h1>CONSECUENCIAS</h1>
+<font face="arial" color="black" size="2">
+<br>
+<br>
+<br>
+1-Ganas de comer en exceso, ansiedad y obesidad<br>
+<br>
+2-Debilitamiento del sistema inmunitario<br>
+<br>
+3-Menos atractivo físico<br>
+<br>
+4-Emociones descontroladas<br>
+<br>
+<img src="consecuencias.jpg">
+<br>
+5-Deterioro cognitivo y cerebral<br>
+<br>
+6-Mayor riesgo de sufrir cáncer<br>
+<br>
+7-Mayor riesgo de tener un accidente<br>
+<br>
+8-Mayor riesgo de sufrir enfermedades cardíacas y menos esperanza de vida<br>
+<br>
+<a href="file:///D:/Users/axel_/Desktop/tecnologia/cuidado%20del%20descanso%20y%20buen%20dormir.html">regreso</a>
+</font>
+</body>
+</html>

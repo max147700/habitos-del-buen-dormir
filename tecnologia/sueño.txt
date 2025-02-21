@@ -1,0 +1,30 @@
+<head><title>sueño</title></head>
+<body>
+<p align="center">
+<h1>sueño</h1>
+<font face="arial" color="black" size="2">
+<br>
+<br>
+<br>
+<br>
+<br>
+El sueño es una parte integral de la vida cotidiana,una necesidad<br>
+biológica que permite restablecer las funciones físicas y psicológicas<br>
+esenciales para un pleno rendimiento<br>
+<br>
+<br>
+<br>
+<img src="fases del sueño.jpg">
+<br>
+<br>
+el sueño es una necesidad fisiológica que aplica directamente en el cuerpo<br>
+los humanos pasan un tercio casi un cuarto de sus vidas durmiendo<br>
+el sueño ayuda a descansar el cerebro y poder generar malatonina
+<br>
+<br>
+<a href="file:///D:/Users/axel_/Desktop/tecnologia/cuidado%20del%20descanso%20y%20buen%20dormir.html">regreso<a/>
+</font>
+</p>
+</body>
+</html>
+
